@@ -10,6 +10,10 @@ At Vercara, we’re passionate about creating software that makes a difference. 
 
 We love collaborating with developers and technologists around the world and encourage community contributions. If you're interested in contributing, please look at the individual repository to find out how you can contribute.
 
+### 🔗 Discover UltraDNS
+
+While you're exploring our projects, don’t miss out on [UltraDNS](https://github.com/ultradns), a world-class authoritative DNS soliution developed by Vercara. UltraDNS is hosted on its own GitHub organization to facilitate specific development and operational needs. Check out its repositories to see how it enhances DNS operational processes for businesses globally.
+
 ## 🌐 Connect with Us
 
 - **[Website](https://vercara.com)**: Learn more about us on our website.
