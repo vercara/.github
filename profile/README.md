@@ -12,9 +12,9 @@ We love collaborating with developers and technologists around the world and enc
 
 ## 🌐 Connect with Us
 
-- **[Website](https://www.vercara.com)**: Learn more about us on our website.
-- **[Blog](https://www.vercara.com/blog)**: Get insights into our technology and innovations.
-- **[Careers](https://www.vercara.com/careers)**: Join our team and help shape the future!
+- **[Website](https://vercara.com)**: Learn more about us on our website.
+- **[Blog](https://vercara.com/blog)**: Get insights into our technology and innovations.
+- **[Careers](https://vercara.com/careers)**: Join our team and help shape the future!
 
 ## 📞 Contact
 
