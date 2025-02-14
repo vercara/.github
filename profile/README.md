@@ -1,3 +1,13 @@
+# 📰 Vercara Has Been Acquired!
+
+As of **January 1st, 2025**, Vercara has officially joined DigiCert, strengthening our commitment to providing cutting-edge security and DNS solutions.
+
+```
+LEHI, Utah – September 23, 2024 – DigiCert, backed by Clearlake Capital Group, L.P. (together with its affiliates, “Clearlake”), Crosspoint Capital Partners L.P. (“Crosspoint”), and TA Associates Management L.P. (“TA”), today announced it has completed its acquisition of Vercara, a leader in cloud-based services that secure the online experience, including managed authoritative Domain Name System (DNS) and Distributed Denial-of-Service (DDoS) security offerings that protect organizations’ networks and applications. The acquisition expands DigiCert’s capabilities to protect organizations of all sizes from the growing number of cyberattacks organizations experience each day. 
+```
+
+For full details, [read the official press release](https://www.digicert.com/news/digicert-completes-acquisition-of-vercara-strengthening-position-as-a-leader-in-digital-trust). To stay up to date with our latest projects and integrations, be sure to [follow DigiCert on GitHub](https://github.com/digicert).
+
 # Welcome to Vercara on GitHub!
 
 ![Vercara Logo](https://vercara.com/wp-content/uploads/2023/02/Vercari-logo.png)
